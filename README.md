@@ -1,10 +1,8 @@
-I'll update the README to include the comprehensive Python spatial analysis system. Here's the enhanced version:
 
 ---
 
 # Beyond Farm Size: Spatial Determinants of Cocoa Productivity in Ghana's Ashanti Region
 
-[![DOI](https://img.shields.io/badge/DOI-10.3390%2F1010000-blue)](https://doi.org/10.3390/1010000)
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![R](https://img.shields.io/badge/R-4.3.1+-blue.svg)](https://www.r-project.org/)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
